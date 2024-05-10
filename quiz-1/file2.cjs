@@ -1,0 +1,1 @@
+const file3 = await import('./file3.mjs');

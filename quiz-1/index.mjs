@@ -1,0 +1,1 @@
+import file1 from './file1.js';

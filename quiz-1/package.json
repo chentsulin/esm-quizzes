@@ -1,0 +1,6 @@
+{
+  "name": "quiz-1",
+  "scripts": {
+    "start": "node index.mjs"
+  }
+}

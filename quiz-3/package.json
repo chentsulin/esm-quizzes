@@ -1,0 +1,10 @@
+{
+  "name": "quiz-3",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "esm-quiz-3-lib": "^0.0.2"
+  }
+}
