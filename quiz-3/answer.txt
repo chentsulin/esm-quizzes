@@ -1,1 +1,1 @@
-1 → lib 的預設是 cjs 不能寫 export
+1 → library `esm-quiz-3-lib` 的預設是 "type": "commonjs"，`.js` 檔裡不能寫 `export` 關鍵字

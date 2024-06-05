@@ -1,1 +1,1 @@
-3 → cjs 不能寫 top level await
+3 → CommonJS module 不能寫 top-level `await`

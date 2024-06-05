@@ -1,1 +1,1 @@
-5 → mjs import cjs 不能用 named import
+5 → ESM import CommonJS module 特定狀況 named import 不會 work，要看 `cjs-module-lexer` 能不能解析
