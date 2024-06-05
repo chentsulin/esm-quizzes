@@ -1,0 +1,1 @@
+1 → lib 的預設是 cjs 不能寫 export

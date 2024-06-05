@@ -1,0 +1,1 @@
+5 → mjs import cjs 不能用 named import
