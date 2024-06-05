@@ -2,7 +2,7 @@
 
 三個 quiz 都有 `npm start` 的 script，以下是三個問題：
 
-## Quiz 1
+## [Quiz 1](./quiz-1)
 
 > 請問錯誤是發生在哪個檔案？ 
 
@@ -15,7 +15,7 @@
 
 [Answer](./quiz-1/answer.txt)
 
-## Quiz 2
+## [Quiz 2](./quiz-2)
 
 > 請問下列哪種做法可以修好它？ 
 
@@ -28,7 +28,7 @@
 
 [Answer](./quiz-2/answer.txt)
 
-## Quiz 3
+## [Quiz 3](./quiz-2)
 
 > 請問會出現哪個錯誤？ 
 
