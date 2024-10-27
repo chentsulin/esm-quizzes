@@ -28,7 +28,7 @@
 
 [Answer](./quiz-2/answer.txt)
 
-## [Quiz 3](./quiz-2)
+## [Quiz 3](./quiz-3)
 
 > 請問會出現哪個錯誤？ 
 
