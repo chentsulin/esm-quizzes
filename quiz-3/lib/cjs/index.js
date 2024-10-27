@@ -1,3 +1,3 @@
-module.export = function log() {
+module.exports = function log() {
   console.log('cjs');
 };
